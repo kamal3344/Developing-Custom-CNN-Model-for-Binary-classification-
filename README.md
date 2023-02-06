@@ -1,1 +1,1 @@
-# Developing-Custom-CNN-Model-for-Binary-classificaton-
+# Developing-Custom-CNN-Model-for-Binary-classification-
